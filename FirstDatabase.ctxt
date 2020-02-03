@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=FirstDatabase
+comment0.text=\r\n\ FirstDatabase.java\r\n\ Sorts\ words\ and\ associated\ numbers\ by\ numerical\ or\ alphabetical\ order\ based\ on\ a\ user's\ selection\r\n\ @author\ Arjan\ Kahlon\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=words\ numbers
+comment2.target=void\ sortstrings(java.lang.String[],\ int[])
+comment2.text=\r\n\ Method\ for\ sorting\ array\ alphabetically\ by\ words\ and\ their\ numbers\r\n\ @param\ words\ array\ of\ words\ \r\n\ @param\ numbers\ array\ of\ numbers\r\n\ @return\ void\r\n
+comment3.params=words\ numbers
+comment3.target=void\ numberSort(java.lang.String[],\ int[])
+comment3.text=\r\n\ Method\ for\ sorting\ array\ in\ numerical\ order\ with\ selection\ sort\r\n\ @param\ words\ array\ of\ words\r\n\ @param\ numbers\ array\ of\ numbers\ \r\n\ @return\ void\r\n
+comment4.params=words\ numbers
+comment4.target=void\ printArrays(java.lang.String[],\ int[])
+comment4.text=\r\n\ Method\ for\ printing\ out\ words\ and\ numbers\ once\ succesfully\ sorted\r\n\ @param\ none\r\n\ @return\ void\r\n
+numComments=5
